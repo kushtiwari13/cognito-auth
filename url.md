@@ -11,3 +11,7 @@ MAKE URL OF SIGN IN
 
 MAKE URL OF SIGN OUT
 <domain-name>/logout?client_id=<client-id>&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=<redirect-link>
+
+git add .
+git commit -m "update 1"
+git push origin main

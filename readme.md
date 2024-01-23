@@ -21,8 +21,3 @@
 	AWS DynamoDB
 	AWS SNS
 
-## Note
-	The links and the ARN displayed in the Youtube Video, might differ in the repository.
-	The changes that needs to be done in all the file is marked with the comment "**Change - .......**"
-
-### Good Luck 😎
